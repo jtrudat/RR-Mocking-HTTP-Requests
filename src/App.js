@@ -5,7 +5,7 @@ import './App.css'
 function App() {
   return (
     <div className="App">
-      <h1>Github Profile Info:</h1>
+      <h1>Github Profile Information:</h1>
     </div>
   );
 }
